@@ -154,7 +154,7 @@ namespace Calculator
             left = 0;
             DidUpdateValue?.Invoke(this, left.Value, precision);
         }
-        public void ClearSimbol()
+        public void PlusAndMinus()
         {
             if (left.HasValue && left.Value <= 9999999999 || precision > 10)
             {
