@@ -41,10 +41,9 @@
 >Метод ComputeUnar
 >Метод Compute
 >Метод Clear
->Метод ClearSimbol
+>Метод PlusAndMinus
 В классе Form1 собраны все кнопки, используемые в калькуляторе.
 
  ## Тестирование 
  
- ![image](https://user-images.githubusercontent.com/115609006/202869737-6509f5d5-b49d-4d55-9a90-b0102b663dad.png)
-
+ ![image](https://user-images.githubusercontent.com/115609006/202870500-a91c84a8-c74e-4901-ae7d-926dffdc3d6d.png)
