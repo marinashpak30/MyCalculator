@@ -79,7 +79,7 @@ namespace Calculator
                         calc.Compute();
                         break;
                     case "plusandminus":
-                        calc.ClearSimbol();
+                        calc.PlusAndMinus();
                         break;
                 }
             }
