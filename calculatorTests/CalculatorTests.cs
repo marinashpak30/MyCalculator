@@ -112,12 +112,12 @@ namespace Calculator.Tests
         }
 
         [TestMethod()]
-        public void ClearSimbolTest()
+        public void PlusAndMinusTest()
         {
             try
             {
                 Calculator calc = new Calculator();
-                calc.ClearSimbol();
+                calc.PlusAndMinus();
                 Assert.IsTrue(true);
             }
             catch (Exception)
